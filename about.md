@@ -11,7 +11,7 @@ primarily involves creating functional and efficient software solutions, and I
 take pride in ensuring that my projects meet the requirements and run smoothly.
 While I don't consider myself particularly adventurous, I find satisfaction in
 the steady progress of learning new technologies and improving my skills over
-time.
+time. ---?
 
 
 When I'm not programming, I spend my time reading technical articles or
